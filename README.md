@@ -31,4 +31,5 @@ This analysis was executed using Python in Jupyter Notebook utilizing the follow
 
 ● Visualizations: Contains all the visualization produced in Jupyter Notebook for the analysis and final presentation.
 
-● Deliverables: The final PowerBi report presenting all analysis and reccomendations. 
+● Deliverables: The final PowerBi report presenting all analysis and reccomendations. Dashboard presentation not uploaded to GitHub due to file size constraints \
+Download Here : https://drive.google.com/file/d/1pOCGvXKNIrMK7R2Q9j9-GjbV2bHTp8VJ/view?usp=drive_link
