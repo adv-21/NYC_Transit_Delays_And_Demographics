@@ -31,4 +31,4 @@ This analysis was executed using Python in Jupyter Notebook utilizing the follow
 
 ● Visualizations: Contains all the visualization produced in Jupyter Notebook for the analysis and final presentation.
 
-● Sent to Client: The final PowerBi report presenting all analysis and reccomendations. 
+● Deliverables: The final PowerBi report presenting all analysis and reccomendations. 
