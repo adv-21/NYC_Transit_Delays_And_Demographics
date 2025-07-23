@@ -2,12 +2,12 @@
 ## Objective
 Commuting in New York City often comes with its share of challenges, and many residents can recall at least one frustrating experience navigating the city via the Metropolitan Transportation Authority (MTA). In an effort to improve transparency and public engagement, the MTA has recently released a wide range of datasets related to ridership, service delays, and major incidents. This project aims to perform a comprehensive statistical and time series analysis of this data to better understand the patterns of disruption—specifically, which demographics and subway lines are most affected by delays and major incidents.  
 ## Data
-● MTA Subway Hourly Ridership - Source : https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data\
-● MTA Subway Trains Delayed – Source: https://data.ny.gov/Transportation/MTA-Subway-Trains-Delayed-2020-2024/wx2t-qtaz/about_data\
-● MTA Subway Major Incidents – Source: https://data.ny.gov/Transportation/MTA-Subway-Major-Incidents-2020-2024/j6d2-s8m2/about_data\
-● MTA Subway Customer Journey-Focused Metrics – Source: https://data.ny.gov/Transportation/MTA-Subway-Customer-Journey-Focused-Metrics-2020-2/4apg-4kt9/about_data\
-● U.S Decennial Census 2020- Source : https://popfactfinder.planning.nyc.gov/explorer/cities/NYC?compareTo=1\
-● Labor Statistics for the New York City Region- Source: https://dol.ny.gov/labor-statistics-new-york-city-region\
+● MTA Subway Hourly Ridership - Source : https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data \
+● MTA Subway Trains Delayed – Source: https://data.ny.gov/Transportation/MTA-Subway-Trains-Delayed-2020-2024/wx2t-qtaz/about_data \
+● MTA Subway Major Incidents – Source: https://data.ny.gov/Transportation/MTA-Subway-Major-Incidents-2020-2024/j6d2-s8m2/about_data \
+● MTA Subway Customer Journey-Focused Metrics – Source: https://data.ny.gov/Transportation/MTA-Subway-Customer-Journey-Focused-Metrics-2020-2/4apg-4kt9/about_data \
+● U.S Decennial Census 2020- Source : https://popfactfinder.planning.nyc.gov/explorer/cities/NYC?compareTo=1 \
+● Labor Statistics for the New York City Region- Source: https://dol.ny.gov/labor-statistics-new-york-city-region \
 ● ACS 1 Year Demographic Data for NYC 2023- Source: https://www.nyc.gov/content/planning/pages/resources/datasets/american-community-survey
 
 ## Coding Tools
